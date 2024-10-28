@@ -2,7 +2,7 @@
   "name": "simulador-de-smartphone",
   "version": "1.0.0",
   "description": "Simulador de smartphone",
-  "main": "index.tsx",
+  "main": "pages_index.tsx",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
